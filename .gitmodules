@@ -1,0 +1,3 @@
+[submodule "deps/OrbbecScanSDK_Interface"]
+	path = deps/OrbbecScanSDK_Interface
+	url = gitlab@code.orbbec.com.cn:3D-Reconstruct/OrbbecScanSDK_Interface.git
